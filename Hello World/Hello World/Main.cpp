@@ -15,7 +15,7 @@ Hello::Hello(char *const string[]) {
 }
 
 int main(int argc, char argv[]) {
-	char *const test[] = { "Hello World" };
+	char *const test[] = { "Hello World!!!!!" };
 	Hello class1(test);
 	return 0;
 }
